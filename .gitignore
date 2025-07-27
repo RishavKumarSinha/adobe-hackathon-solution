@@ -1,0 +1,16 @@
+# .gitignore    
+__pycache__/
+*.pyc
+venv/
+env/
+
+wheels/
+
+output*/
+challenge_1a/output/
+challenge_1b/output_collection1/
+challenge_1b/output_collection2/
+challenge_1b/output_collection3/
+
+.vscode/
+.idea/
